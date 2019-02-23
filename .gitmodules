@@ -1,0 +1,3 @@
+[submodule "client2"]
+	path = client2
+	url = https://github.com/rrrrr7210/client2.git
